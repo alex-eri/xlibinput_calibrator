@@ -21,7 +21,7 @@ This project is derived from xinput_calibrator.
 --verbose                     set verbose to on
 --dont-save                   don't update X11 setting
 --matrix=x1,x2..x9            start coefficent matrix
---monitor-nr=<n>              show the ouput in the monitor '<n>'
+--monitor-number==<n>         show the ouput in the monitor '<n>'
 ```
 
 The possible outcomes of this command are the following:
